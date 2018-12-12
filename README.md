@@ -24,4 +24,4 @@ In the src folder, there are python modules.
 * **aco.py**: Contains the FCM code optimised by ACO
 * **pso.py**: Contains the FCM code optimised by PSO
 * **sa.py**: Contains the FCM code optimised by GSA
-**util.py**: Contains all the utility functions and libraries
+* **util.py**: Contains all the utility functions and libraries
