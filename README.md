@@ -19,7 +19,7 @@ PSO is a  natural computing algorithm which derives its motivation from a flock 
 ACO is a natural computing algorithm which is based on ant system in which an ant tracks down the way to food by the amount of pheroemones deposited on the path by other ants.While the ants are travelling in search of food, they deposit some amount of pheromones on their path and later the other ants follow the path depending upon the amount of pheromones on each path. The major advantage of ACO is that it is convergent that is convergence if guananteed whenever the algorithm is run but the number of iterations is not fixed. It is used for high-computational problems and has its applications in Image Processing, Vehicle routing, Scheduling Problem, travelling salesman problem and network routing, etc.
 
 <br/>
-![](Images/ACO.jpg)
+![](Images/aco.jpg)
 <br/>
 
 * Gravitational Search Algorithm
