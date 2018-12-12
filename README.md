@@ -2,7 +2,7 @@
 This is my self-driven research project aimed to find accurate fuzzy clustering of very large data.
 Fuzzy C-means clustering or FCM is a clustering technique in which an instance of data or  a data point is clustered in one or more classes.It identifies the clusters on the basis of similarity among data points or partition matrix. It is an unsupervised learning algorithm. However, It runs a  disadvantage of converging at local optimum.
 <br/>
-![Fuzzy-c means clustering](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjmpNvT6ZffAhUIX30KHeFZBeUQjRx6BAgBEAU&url=https%3A%2F%2Fpythonhosted.org%2Fscikit-fuzzy%2Fauto_examples%2Fplot_cmeans.html&psig=AOvVaw3hCvUo9BB44BIyf0SwutFH&ust=1544619336895066)
+![github-large](https://camo.githubusercontent.com/a542eb3031e17ee5e722f941a63f93c00ca757f7/68747470733a2f2f707974686f6e686f737465642e6f72672f7363696b69742d66757a7a792f5f696d616765732f706c6f745f636d65616e735f342e706e67)
 
 <br/>
 
@@ -11,7 +11,7 @@ The Following approaches have been applied for hybridising FCM:
 * Particle Swarm Optimization
 PSO is a  natural computing algorithm which derives its motivation from a flock of swarm travelling in search of food. In PSO,there is  a swarm of particles continuously moving in search space, each particle posseses a possible solution for the problem and travels until optimum is reached. In it, a particle has two properties – its position and velocity and it tends to move towards its personal best position and the global best position. PSO has been credited  to give better results in case of multilabel classification problems i.e problems with more than two classes. New variants of PSO are also being introduced to give optimized performance.
 <br/>
-![PSO](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwji5cea8JffAhVCWX0KHSNGCcoQjRx6BAgBEAU&url=https%3A%2F%2Ftowardsdatascience.com%2Fparticle-swarm-optimisation-in-machine-learning-b01b1d2ad8a8&psig=AOvVaw2mbaXtTcatDGd6n2WABteO&ust=1544621086660422)
+![github-small](https://cdn-images-1.medium.com/max/1600/1*3PvK6e-kJ-zHjoN2KyhqNw.png)
 <br/>
 
 * Ant Colony Optimization
@@ -19,7 +19,7 @@ PSO is a  natural computing algorithm which derives its motivation from a flock 
 ACO is a natural computing algorithm which is based on ant system in which an ant tracks down the way to food by the amount of pheroemones deposited on the path by other ants.While the ants are travelling in search of food, they deposit some amount of pheromones on their path and later the other ants follow the path depending upon the amount of pheromones on each path. The major advantage of ACO is that it is convergent that is convergence if guananteed whenever the algorithm is run but the number of iterations is not fixed. It is used for high-computational problems and has its applications in Image Processing, Vehicle routing, Scheduling Problem, travelling salesman problem and network routing, etc.
 
 <br/>
-![Ant Colony Optimization](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9idSm8ZffAhVXU30KHXBhBQoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.slideshare.net%2FMeenakshiDevi%2Fant-colony-optimization-11696728&psig=AOvVaw0-y8qcGy3vSC7CcwHoL3wy&ust=1544621270719125)
+![github-small](https://www.funpecrp.com.br/gmr/year2005/vol3-4/images/wob09fig2.jpg)
 
 
 * Gravitational Search Algorithm
