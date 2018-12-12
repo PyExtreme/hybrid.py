@@ -17,3 +17,11 @@ ACO is a natural computing algorithm which is based on ant system in which an an
 
 * **Gravitational Search Algorithm**:
 GSA is a nature inspired algorithm based on the Newton’s famous law of gravity and the law of motion. GSA is classified under population-based method and is reported to be more instinctive. In GSA, the agent has four parameters which are position, inertial mass, active gravitational mass, and passive gravitational mass.
+
+## Description
+
+I the src folder, there are python modules.
+**aco.py**: Contains the FCM code optimised by ACO
+**pso.py**: Contains the FCM code optimised by PSO
+**sa.py**: Contains the FCM code optimised by GSA
+**util.py**: Contains all the utility functions and libraries
